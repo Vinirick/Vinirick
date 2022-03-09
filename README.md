@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, eu sou o Vinirick! 🖥️
+##
+Atuamente estudando programação web
 
-<!--
-**Vinirick/Vinirick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <img align="center" alt"Vini.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="center" alt"Vini.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
+         <img align="center" alt"Vini.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt"Vini.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="center" alt"Vini.js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="right" alt"bbyoda.js" height="150" width="170" src="https://media3.giphy.com/media/Wn74RUT0vjnoU98Hnt/200w.webp?cid=ecf05e471st3ahav9daa51fyj0xkpn9gc7vcvs23z52bxgg0&rid=200w.webp&ct=g"/>
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
