@@ -1,9 +1,14 @@
 Olá, eu sou o Vinirick! 🖥️
 ##
-Atuamente estudando Data Science!
+Atuamente estudando Desenvolvimento de software em java com springboot!
+
+- 🔭 Atualmente estudando **Java, Spring Boot, JPA e MySQL**
+- 🌱 Aprendendo sobre APIs RESTful e boas práticas de desenvolvimento
+- 💼 Em busca da primeira oportunidade como Desenvolvedor Júnior ou Estágio
+- 📚 Sempre em aprendizado contínuo
 
 <div>
-<img align="center" alt"Vini.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt"Vini.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
    <img align="center" alt"Vini.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
          <img align="center" alt"Vini.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
    <img align="center" alt"Vini.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
