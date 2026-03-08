@@ -15,6 +15,7 @@ Atuamente estudando a área de dados 🎲!
 <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="Matplotlib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  
   <img align="right" alt="Coding GIF" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBtM2Fld2tlc2c2bGtkcDl4dDhrcDN2eHBlMGd6aXZyMHVkczUyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12QMzVeF4QsqTC/giphy.gif">
 
   </div>
